@@ -2,7 +2,7 @@
 {
     public class Raygun
     {
-        private int ammo = 6;
+        private int ammo = 4;
 
         public void FireAt(Bug bug)
         {
